@@ -1,0 +1,10 @@
+name: blagda
+include:
+  site
+  wip
+  _build
+  .
+flags:
+  --rewriting
+depend:
+  standard-library
